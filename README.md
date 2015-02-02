@@ -56,4 +56,6 @@ Right now many of you are cloning from Github using the HTTPS clone link. It's a
 
 * Go back to terminal and verify that you successfully added the SSH key by typing `ssh -T git@github.com`. You should get back `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
 
+Github has great online documention [here](https://help.github.com/articles/generating-ssh-keys) if you need more help.
+
 ### Congrats! You are all set.

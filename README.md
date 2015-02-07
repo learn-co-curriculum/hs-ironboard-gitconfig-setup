@@ -7,7 +7,7 @@ languages: ruby
 
 ### The Ironboard Gem
 
-You may have noticed those little green circles lighting up on Ironboard. To make them all light up you'll need to download a special Ironboard.
+You may have noticed those little green circles lighting up on Ironboard. To make them all light up you'll need to download a special ironboard gem.
 
 This gem isn't open-sourced, so we won't be downloading it from [RubyGems.org](https://rubygems.org/), which is where most gems are hosted. Before we download it, we will need to specify where it's coming from, which is a private server at Flatiron. Type this into your command line:
 

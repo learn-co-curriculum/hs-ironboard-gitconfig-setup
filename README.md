@@ -5,9 +5,9 @@ languages: ruby
 
 ## A Little More Environment Set Up
 
-### The Ironboard Gem
+### The Learn Gem
 
-You may have noticed those little green circles lighting up on Ironboard. To make them all light up you'll need to download a special ironboard gem.
+You may have noticed those little green circles lighting up on Learn. To make them all light up you'll need to download a special learn gem.
 
 This gem isn't open-sourced, so we won't be downloading it from [RubyGems.org](https://rubygems.org/), which is where most gems are hosted. Before we download it, we will need to specify where it's coming from, which is a private server at Flatiron. Type this into your command line:
 
@@ -15,11 +15,11 @@ This gem isn't open-sourced, so we won't be downloading it from [RubyGems.org](h
 
 Next, download the gem:
 
-`gem install ironboard`
+`gem install learn-co`
 
-The ironboard gem will allow us to run the tests for challenges and labs. It's based off of [RSpec](https://www.relishapp.com/rspec), a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
+The learn gem will allow us to run the tests for challenges and labs. It's based off of [RSpec](https://www.relishapp.com/rspec), a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
 
-Normally when we run our tests, we would type `rspec`, but to run the tests for challenges and labs, you'll type `ironboard` into your command line instead.
+Normally when we run our tests, we would type `rspec`, but to run the tests for challenges and labs, you'll type `learn` into your command line instead.
 
 ### Set Up Github SSH Keys
 

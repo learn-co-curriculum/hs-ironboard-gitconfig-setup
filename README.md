@@ -1,7 +1,4 @@
----
-tags: setup, environment, bash, kids
-languages: ruby
----
+
 
 ## A Little More Environment Set Up
 

@@ -56,4 +56,4 @@ Right now many of you are cloning from Github using the HTTPS clone link. It's a
 Github has great online documention [here](https://help.github.com/articles/generating-ssh-keys) if you need more help.
 
 ### Congrats! You are all set.
-<a href='https://learn.co/lessons/hs-ironboard-gitconfig-setup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ironboard-gitconfig-setup' title='A Little More Environment Set Up'>A Little More Environment Set Up</a> on Learn.co and start learning to code for free.</p>
